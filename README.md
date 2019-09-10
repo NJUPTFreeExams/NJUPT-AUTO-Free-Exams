@@ -44,8 +44,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 #### @大一上
 
 1. 高等数学A（上）@大一上
-2. [线性代数与解析几何](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95) ✅ @大一上 (Last updated: 2018-02-17)
-3. [高级语言程序设计](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E9%AB%98%E7%BA%A7%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大一上 (Last updated: 2018-02-17)
+2. [线性代数与解析几何](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95) ✅ @大一上
+3. [高级语言程序设计](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E9%AB%98%E7%BA%A7%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) ✅ @大一上 
 4. 制图基础及计算绘图 ✅ @大一上
 5. 思想道德修养与法律基础 ✅ @大一上
 6. 大学语文 ✅ @大一上
@@ -53,9 +53,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 #### @大一下
 
-1. [高等数学A（下）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
-2. [大学物理（上）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
-3. [物理实验（上)](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 (Last updated: 2018-02-17)
+1. [高等数学A（下）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大一下
+2. [大学物理（上）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 
+3. [物理实验（上)](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%B8%8A%EF%BC%89) ✅ @大一下 
 4. 电路 ✅ @大一下
 5. 中国近现代史纲要 ✅ @大一下
 6. 多媒体技术与应用(限选课) ✅ @大一下
@@ -65,25 +65,31 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 #### @大二上
 
-1. [大学物理（下）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大二上 (Last updated: 2018-02-17)
+1. [大学物理（下）](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E4%B8%8B%EF%BC%89) ✅ @大二上
 2. [信号与系统B](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%e4%bf%a1%e5%8f%b7%e4%b8%8e%e7%b3%bb%e7%bb%9fB)✅ @大二上
 3. [模拟电子线路B](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%e4%bf%a1%e5%8f%b7%e4%b8%8e%e7%b3%bb%e7%bb%9fB)✅ @大二上
-4. [数据结构](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84) ✅ @大二上 (Last updated: 2018-02-17)
-5. [电工电子基础实验B](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CB) ✅ @大二上 (Last updated: 2018-02-16)
-6. 物理实验（下)✅ @大二上 (Last updated: 2018-02-17)
+4. [数据结构](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84) ✅ @大二上 
+5. [电工电子基础实验B](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E7%94%B5%E5%B7%A5%E7%94%B5%E5%AD%90%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CB) ✅ @大二上 
+6. 物理实验（下)✅ @大二上 
 
 #### @大二下
 
-1. [概率论与数理统计](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) ✅ @大二下 (Last updated: 2018-02-17)
-2. 微型计算机与接口技术 ✅ @大二下
-3. [数字电路与逻辑设计B](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1B) ✅ @大二下 (Last updated: 2018-02-17)
-4. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) (限选课)✅ @大二下 (Last updated: 2018-02-17)
-5. [JAVA程序设计](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/JAVA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) (限选课) ✅ @大二下 (Last updated: 2018-02-17)
-6. 现代管理科学基础✅ @大二下 
+1. [概率论与数理统计](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) ✅ @大二下 
+2. [微型计算机与接口技术 ]([https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E6%8E%A5%E5%8F%A3%E6%8A%80%E6%9C%AF](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/微型计算机与接口技术))✅ @大二下
+3. [数字电路与逻辑设计B](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1B) ✅ @大二下
+4. [算法分析与设计](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1) (限选课)✅ @大二下
+5. [JAVA程序设计](https://github.com/NJUPTFreeExams/NJUPT_CS_Free_Exams/tree/master/JAVA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) (限选课) ✅ @大二下 
+6. [现代管理科学基础]([通信企业管理](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/通信企业管理))✅ @大二下 
 7. 创新与创业管理B✅ @大二下 
 8. 马克思主义基本原理✅ @大二下 
 
+### @大三上
 
+1. [电子系统设计与教程]([https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials/tree/master/电子系统设计))✅ @大三上
+2. 自动控制原理
+3. 电机拖动
+4. 电力电子技术
+5. 传感器
 
 :dart:~~注: 有些科目我上传了一些个人的笔记，不一定正确，仅供大家在学习的过程中参考。期末考试还是以复习资料为准~~ ,笔记已移到我个人仓库[Freedomisgood/**NJUPT_AUTO_StudyMaterials**](<https://github.com/Freedomisgood/NJUPT_AUTO_StudyMaterials>)
 
@@ -91,4 +97,4 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 
 
-@大三上
+1. 
