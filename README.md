@@ -41,6 +41,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ### 大一
 
+- [大学生计算机基础](https://github.com/NJUPTFreeExams/NJUPT_General_Free_Exams/tree/master/%e5%a4%a7%e5%ad%a6%e7%94%9f%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%9f%ba%e7%a1%80)✅ @大一
+
 #### @大一上
 
 1. 高等数学A（上）@大一上
@@ -59,7 +61,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 4. 电路 ✅ @大一下
 5. 中国近现代史纲要 ✅ @大一下
 6. 多媒体技术与应用(限选课) ✅ @大一下
-7. 数据库(限选课) ✅ @大一下
+7. [大型数据库技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams/tree/master/大型数据库技术) ✅ @大一下
 
 ### 大二
 
