@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj",
+"showfun.obj" 
+TO "cl" 

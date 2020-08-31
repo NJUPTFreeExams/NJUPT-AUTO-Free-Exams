@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000000000001000000ffffffffffffffffffffffffffffffffb20000000c000000ce060000fa030000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="800" x="275" flags="00000002" y="218" h="200" pid="0" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">661</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="350" x="295" flags="00000032" y="238" h="200" pid="1" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">82</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">82</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">82</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">82</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="506" x="361" flags="00000000" y="331" h="285" pid="0" iid="9">
+    <PROPERTIES>
+     <ITEM name="CHANNEL">0</ITEM>
+     <ITEM name="IPS1">0</ITEM>
+     <ITEM name="IPS2">0</ITEM>
+     <ITEM name="MODE">0</ITEM>
+     <ITEM name="TIMEBASE">3</ITEM>
+     <ITEM name="TRIGGER">90</ITEM>
+     <ITEM name="XPOS">250</ITEM>
+     <ITEM name="YGAIN1">2</ITEM>
+     <ITEM name="YGAIN2">5</ITEM>
+     <ITEM name="YPOS1">200</ITEM>
+     <ITEM name="YPOS2">200</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="506" x="351" flags="00000000" y="632" h="285" pid="0" iid="10">
+    <PROPERTIES>
+     <ITEM name="CHANNEL">0</ITEM>
+     <ITEM name="IPS1">0</ITEM>
+     <ITEM name="IPS2">0</ITEM>
+     <ITEM name="MODE">0</ITEM>
+     <ITEM name="TIMEBASE">2</ITEM>
+     <ITEM name="TRIGGER">90</ITEM>
+     <ITEM name="XPOS">250</ITEM>
+     <ITEM name="YGAIN1">2</ITEM>
+     <ITEM name="YGAIN2">5</ITEM>
+     <ITEM name="YPOS1">200</ITEM>
+     <ITEM name="YPOS2">200</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="355" flags="0000004a" y="298" h="16" pid="256" iid="4">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="210" x="375" flags="00000048" y="318" h="268" pid="1" iid="1">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="8" x="395" flags="0000000a" y="338" h="16" pid="3" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="415" flags="0000000a" y="358" h="16" pid="2" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000080</ITEM>
+    </PROPERTIES>
+   </POPUP>
+  </PWI>
+ </MODULE>
+</WORKSPACE>
