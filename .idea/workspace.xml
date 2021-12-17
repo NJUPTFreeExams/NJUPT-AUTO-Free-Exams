@@ -19,7 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="069fa13c-0705-4a10-99ea-67ef04438e3b" name="Default Changelist" comment="" />
+    <list default="true" id="069fa13c-0705-4a10-99ea-67ef04438e3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/大四/机器人技术/机器人学试卷A答案.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/机器人技术/视觉SLAM(考试范围).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2015-2016A(缺一页).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2015-2016B.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2017-2018A.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2017-2018B.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2018-2019A.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/2018-2019B.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/试卷/过控知识点.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/~$第7章上.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/~$第8章 先进过程控制技术.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/新建 Microsoft Visio 绘图.vsdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/模型预测控制课程课件.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第10章 过程控制系统应用实例.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第1章.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第1章1.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第2章1、2.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第2章3.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第2章4.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第2章5、6.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第3章上.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第3章下.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第4章上.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第4章下.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第5章.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第6章.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第7章上.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第7章下.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第8章 先进过程控制技术.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大四/过程控制/过程控制PPT/第9章 计算机控制系统.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大四/过程控制/IMG_20200902_165531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大四/过程控制/IMG_20200902_165544.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +88,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="069fa13c-0705-4a10-99ea-67ef04438e3b" name="Default Changelist" comment="" />
@@ -62,11 +97,13 @@
       <option name="presentableId" value="Default" />
       <updated>1598840229169</updated>
       <workItem from="1598840230851" duration="750000" />
+      <workItem from="1599376373347" duration="475000" />
+      <workItem from="1639742444693" duration="437000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -96,6 +133,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:G:/图片/NJUPT_AUTO_StudyMaterials/大三/大三上/电子系统设计/报告" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -106,8 +168,10 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1598842212663">
