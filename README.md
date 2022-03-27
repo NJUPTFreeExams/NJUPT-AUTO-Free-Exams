@@ -111,11 +111,12 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 10. [智能控制理论](./大三/大三下/智能控制理论)
 11. [数字图像与视频处理](./大三/大三下/数字图像与视频处理)
 
+### 大四
+
+1. [过程控制](./大四/过程控制)
+2. [机器人技术](./大四/机器人技术)
+
+
 ## P.S.
 
 单独文件夹下载方式:[DownGit](https://github.com/zhoudaxiaa/DownGit)
-
-:dart:~~注: 有些科目我上传了一些个人的笔记，不一定正确，仅供大家在学习的过程中参考。期末考试还是以复习资料为准~~ ,笔记已移到我个人仓库[Freedomisgood/**NJUPT_AUTO_StudyMaterials**](<https://github.com/Freedomisgood/NJUPT_AUTO_StudyMaterials>)
-
-
-
